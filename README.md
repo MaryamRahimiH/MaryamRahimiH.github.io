@@ -1,2 +1,3 @@
 Personal webpage
-Thanks varadbhogayata/varadbhogayata.github.io template.
+
+Thanks to varadbhogayata/varadbhogayata.github.io template.

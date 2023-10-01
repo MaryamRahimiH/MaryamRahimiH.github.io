@@ -363,7 +363,7 @@ h3 {
 }
 
 .overlay {
-  background:url(/mrahimi.github.io/assets/img/banner.png);
+  background:url(/assets/img/banner.png);
   left: 0;
   height: 100%;
   position: absolute;
@@ -568,7 +568,7 @@ small {
 /* .teal */
 
 .teal {
-  background: url(/mrahimi.github.io/assets/img/tittle2.jpg) !important;
+  background: url(/assets/img/tittle2.jpg) !important;
 }
 .teal-maryam{
   background-color:#47abe0 ;
